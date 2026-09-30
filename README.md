@@ -75,6 +75,9 @@ calc> :history 5
 ```
 Type `:help` inside the app for all commands.
 
+## Screenshots
+<img width="1920" height="1020" alt="Screenshot 2026-09-30 113057" src="https://github.com/user-attachments/assets/4319cb8c-89e2-451b-86c6-95b822532ede" />
+
 ## Testing
 ```bash
 python -m unittest discover -s tests -v
