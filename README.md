@@ -80,3 +80,8 @@ Type `:help` inside the app for all commands.
 python -m unittest discover -s tests -v
 ```
 Tests cover parsing, evaluation errors, security (no code execution), history persistence/corruption, unit conversion, solver edge cases, statistics and CLI behaviour.
+
+
+## Made by
+Name:-Shivansh Sharma
+Registration number:-26MIM10224
